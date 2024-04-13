@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Chetan Agarwal
-- 🌱 I’m currently learning Data Sience and Big data
+- 🌱 I’m currently learning Data Science, Big data & DevOps
 - 📫 
